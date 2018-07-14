@@ -1,1 +1,7 @@
-{}
+{
+  "@context": {
+    "@base": "https://app.orgnote.com/"
+    "@vocab": "https://www.orgnote.com/vocab/"
+    "id": "@id"
+  }
+}
